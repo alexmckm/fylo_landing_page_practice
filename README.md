@@ -1,16 +1,14 @@
-# Clipboard Landing Page
+# Fylo Landing Page
 
-This is a fully responsive landing page for a generic "Clipboard" app for iOS and Mac. Though simple, the design is totally suited for outlining the app's benefits and encouraging visitors to try it out.
+This is a fully responsive landing page for a generic file storage service named "Fylo". The general page appearance follows important design principles suited for this kind of professional service.
 
-**Link to project:**  [https://ephemeral-valkyrie-140185.netlify.app/]
+**Link to project:**  [https://euphonious-panda-ad8deb.netlify.app/]
 
-![Clipboard Landing Page](/images/ClipboardSC.JPG/?raw=true)
+![Fylo Landing Page](/images/Fylo.JPG/?raw=true)
 
 ## How It's Made:
 
 **Tech used:**  HTML & CSS **only**!
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write  _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
 This project has been tremendously helpful in helping me apply my front-end knowledge to a practical endeavour. Here, I use pure HTML and CSS, with the extensive help of **Flexbox** and **Grid**.
 
