@@ -4,7 +4,7 @@ This is a fully responsive landing page for a generic file storage service named
 
 **Link to project:**  [https://euphonious-panda-ad8deb.netlify.app/]
 
-![Fylo Landing Page](/images/Fylo.JPG/?raw=true)
+![Fylo Landing Page](/images/FyloSC.JPG/?raw=true)
 
 ## How It's Made:
 
